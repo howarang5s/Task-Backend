@@ -32,7 +32,7 @@ A RESTful API backend built with **Node.js**, **Express**, and **MongoDB** to su
 ## ⚙️ Installation & Setup
 
 ### 1. Clone the repository:
-git clone <YOUR_BACKEND_REPO_URL>
+git clone https://github.com/howarang5s/Task-Backend
 cd <YOUR_BACKEND_REPO_FOLDER_NAME>
 
 ### 2. Install node modules
